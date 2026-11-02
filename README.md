@@ -1,7 +1,7 @@
 
 <div align="center">
 
-# Hi, I'm Yukeshwaran 👋
+# ython | AI/ML | Computer Vision | IoT | Software Developer
 
 ###  Python | AI/ML | Computer Vision | IoT | Software Developer
 
