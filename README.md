@@ -1,106 +1,136 @@
 
+---
+
 <div align="center">
 
-# Hi, I'm Yukeshwaran 👋
+# 🚀 AI & ML ENGINEER | SOFTWARE DEVELOPER
 
-### Software Developer | Python | AI/ML | Computer Vision | IoT
+### Building Intelligent Systems • AI-Powered Applications • Automation
 
-Building practical software, intelligent systems and automation projects.
+<p>
+  <img src="https://img.shields.io/badge/FOCUS-AI%20%26%20MACHINE%20LEARNING-00D4FF?style=for-the-badge&logo=artificialintelligence&logoColor=white"/>
+  <img src="https://img.shields.io/badge/ROLE-SOFTWARE%20DEVELOPER-7B61FF?style=for-the-badge&logo=code&logoColor=white"/>
+</p>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:0077B6,100:00D4FF&height=180&section=header&text=Yukeshwaran&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=38"/>
-
-![Profile Views](https://komarev.com/ghpvc/?username=yukesh03&color=blue)
-![GitHub followers](https://img.shields.io/github/followers/yukesh03?style=social)
+<p>
+  <img src="https://img.shields.io/badge/BUILDING-INTELLIGENT%20APPLICATIONS-00C853?style=flat-square"/>
+  <img src="https://img.shields.io/badge/LOCATION-CHENNAI%2C%20INDIA-0088CC?style=flat-square"/>
+</p>
 
 </div>
 
 ---
 
-## 🧑‍💻 About Me
+## 💻 Programming Languages & Development
 
-```yaml
-name: Yukeshwaran
-education: B.E. Electronics and Communication Engineering
-college: Agni College of Technology
-location: Chennai, India
-interests:
-  - Software Development
-  - Artificial Intelligence & Machine Learning
-  - Computer Vision
-  - Generative AI
-  - Cybersecurity
-  - IoT & Automation
-goal: Building practical technology solutions
-```
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,c,cpp,java,js,html,css,php,sql&perline=9"/>
+</p>
 
-- 🔭 Working on AI, Python and automation projects.
-- 🌱 Learning Generative AI, RAG and advanced Python.
-- 💡 Interested in solving real-world problems through technology.
-- 🛠️ Building applications combining software and hardware.
-- 🎯 Exploring opportunities in software and AI engineering.
+## 🧠 AI, Machine Learning & Computer Vision
 
----
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=opencv,sklearn,tensorflow&perline=5"/>
+</p>
 
-## 🛠️ Tech Stack
+- Machine Learning & Predictive Analytics
+- Computer Vision & Object Detection
+- NLP & Speech Recognition
+- Generative AI & RAG Fundamentals
+- Anomaly Detection & Data Analysis
 
-### Programming
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+## ⚙️ Frameworks, Tools & Technologies
 
-### AI & Machine Learning
-![Scikit Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
-![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
-![YOLO](https://img.shields.io/badge/YOLO-111F68?style=for-the-badge)
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=react,nodejs,fastapi,firebase,mysql,mongodb,git,github,vscode,postman,docker,linux,arduino&perline=7"/>
+</p>
 
-### Web Development
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![REST API](https://img.shields.io/badge/REST_API-009688?style=for-the-badge)
-
-### Hardware & IoT
-![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)
-![ESP32](https://img.shields.io/badge/ESP32-E7352C?style=for-the-badge&logo=espressif&logoColor=white)
-
-### Tools
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
-
----
+**Additional technologies:**
+- APIs: REST API, JWT Authentication
+- Data: Pandas, NumPy, Plotly, Excel, Tableau
+- Embedded Systems: ESP32, ESP8266, Arduino
+- IoT: Sinric Pro, WLED, Sensors & Automation
+- Networking: CCNA Fundamentals, TCP/IP, Cisco Packet Tracer
+- Cloud & Deployment: AWS Basics, Render, Vercel
+- Testing: Pytest
 
 ## 🚀 Featured Projects
 
-### 1. AI-Based Child Safety System for Elevators
-- Computer vision-based child safety monitoring.
-- YOLO object detection.
-- Python, ESP32, REST API and IoT.
+<table>
+<tr>
+<td width="50%">
 
-### 2. AI Voice Assistant
-- Voice recognition and intent classification.
-- Speech-to-text and text-to-speech.
-- Python, Scikit-learn and external APIs.
+### 🛡️ CyberSentinel AI
 
-### 3. Fin-Audit AI
-- Intelligent bank statement analysis.
-- Expense categorization and recurring payment detection.
-- Financial insights and OCR processing.
+AI-powered network traffic anomaly detection.
 
-### 4. Smart Home Automation
-- ESP32-based home automation.
-- Sensor integration and voice control.
-- Arduino and IoT.
+- Isolation Forest
+- Python & Streamlit
+- Pandas & Scikit-learn
+- Plotly & Pytest
 
----
+<a href="https://github.com/yukesh03/CyberSentinel-AI">View Repository →</a>
 
-## 📊 GitHub Statistics
+</td>
+<td width="50%">
+
+### 🤖 JobPilot AI
+
+Local-first AI-powered job search assistant.
+
+- Python & FastAPI
+- SQLite
+- AI-assisted job matching
+- Application tracking
+- Email & notification integrations
+
+<a href="https://github.com/yukesh03/JobPilot-Ai">View Repository →</a>
+
+</td>
+</tr>
+<tr>
+<td width="50%">
+
+### 🛗 AI Child Safety Elevator
+
+AI + IoT-based elevator safety monitoring.
+
+- Python & Computer Vision
+- ESP32 & Sensors
+- Cloud AI
+- REST API
+- Real-time monitoring dashboard
+
+<a href="https://github.com/yukesh03/child-safety-elevator">View Repository →</a>
+
+</td>
+<td width="50%">
+
+### 🎙️ AI Voice Assistant
+
+Machine-learning-powered voice assistant.
+
+- Python
+- SpeechRecognition
+- gTTS
+- Scikit-learn & TF-IDF
+- REST APIs
+
+<a href="https://github.com/yukesh03">Explore GitHub →</a>
+
+</td>
+</tr>
+</table>
+
+## 📊 GitHub Analytics
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=yukesh03&show_icons=true&theme=tokyonight&hide_border=true"/>
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=yukesh03&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github"/>
 
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yukesh03&layout=compact&theme=tokyonight&hide_border=true"/>
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yukesh03&layout=compact&theme=tokyonight&hide_border=true"/>
+
+<br/>
 
 <img width="90%" src="https://streak-stats.demolab.com?user=yukesh03&theme=tokyonight&hide_border=true"/>
 
@@ -113,21 +143,29 @@ goal: Building practical technology solutions
 <div align="center">
 
 <a href="https://github.com/yukesh03">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GitHub-Explore%20My%20Code-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
 <a href="https://linkedin.com/in/yukesh-waran-815aa3369">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  <img src="https://img.shields.io/badge/LinkedIn-Let's%20Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
-</div>
+<a href="mailto:yukeshwaran.s03@gmail.com">
+  <img src="https://img.shields.io/badge/Email-Contact%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
 
----
+<br/><br/>
 
-<div align="center">
+<a href="https://github.com/yukesh03">
+  <img src="https://img.shields.io/badge/VIEW%20MY%20GITHUB%20PROFILE-00D4FF?style=for-the-badge&logo=github&logoColor=black"/>
+</a>
 
-### "Turning ideas into practical technology."
+<br/><br/>
 
-⭐ Thanks for visiting my profile!
+### 💡 "Turning ideas into intelligent solutions."
+
+*Learn • Build • Innovate • Repeat*
+
+⭐ Thanks for visiting my GitHub profile!
 
 </div>
