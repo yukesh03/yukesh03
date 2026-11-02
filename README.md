@@ -1,12 +1,16 @@
 
 <div align="center">
 
-#Python | AI/ML | Computer Vision | IoT | Software Developer
+# Hi, I'm Yukeshwaran 👋
+
+###  Python | AI/ML | Computer Vision | IoT | Software Developer
 
 Building practical software, intelligent systems and automation projects.
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:0077B6,100:00D4FF&height=180&section=header&text=Yukeshwaran&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=38"/>
 
+![Profile Views](https://komarev.com/ghpvc/?username=yukesh03&color=blue)
+![GitHub followers](https://img.shields.io/github/followers/yukesh03?style=social)
 
 </div>
 
@@ -156,7 +160,7 @@ Dark glassmorphism single-page site with a live Canvas particle background — b
 
 ---
 
-###🏅 Certifications
+🏅 Certifications
 
 <p align="center">
 <img src="https://img.shields.io/badge/Deloitte-Data%20Analytics%20Job%20Simulation-6D28D9?style=for-the-badge&logo=deloitte&logoColor=white"/>
@@ -179,10 +183,6 @@ Dark glassmorphism single-page site with a live Canvas particle background — b
 </div>
 
 ---
-<p align="center">
-![Profile Views](https://komarev.com/ghpvc/?username=yukesh03&color=blue)
-![GitHub followers](https://img.shields.io/github/followers/yukesh03?style=social)
-</p>
 
 <div align="center">
 
